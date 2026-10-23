@@ -1,4 +1,4 @@
-import type { Preview } from "@storybook/nextjs";
+import type { Preview } from "@storybook/nextjs-vite";
 import { useEffect, type ReactNode } from "react";
 import "../src/app/globals.css";
 import { I18nProvider } from "../src/i18n/provider";
